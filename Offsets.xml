@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Root>
+  <DX9>
+    <StructureAddress>1326810</StructureAddress>
+    <ZoomCurrent>F8</ZoomCurrent>
+    <ZoomMax>100</ZoomMax>
+    <FovCurrent>104</FovCurrent>
+    <FovMax>10C</FovMax>
+  </DX9>
+  <DX11>
+    <StructureAddress>1AA4520</StructureAddress>
+    <ZoomCurrent>118</ZoomCurrent>
+    <ZoomMax>120</ZoomMax>
+    <FovCurrent>124</FovCurrent>
+    <FovMax>12C</FovMax>
+  </DX11>
+  <LastUpdate>2019-07-23 - 4.56 跨</LastUpdate>
+  <Version>2019.07.09.0000.0000</Version>
+</Root>
