@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Root>
+  <DX9>
+    <StructureAddress>132E610</StructureAddress>
+    <ZoomCurrent>F8</ZoomCurrent>
+    <ZoomMax>100</ZoomMax>
+    <FovCurrent>104</FovCurrent>
+    <FovMax>10C</FovMax>
+  </DX9>
   <DX11>
     <StructureAddress>1DB9380</StructureAddress>
     <ZoomCurrent>114</ZoomCurrent>
-    <ZoomMax>11c</ZoomMax>
+    <ZoomMax>11C</ZoomMax>
     <FovCurrent>120</FovCurrent>
     <FovMax>128</FovMax>
   </DX11>
-  <LastUpdate>2021-08-24 - patch 5.59?</LastUpdate>
+  <LastUpdate>2021.9.28 5.55 update</LastUpdate>
+  <AutoApply>True</AutoApply>
+  <AutoQuit>False</AutoQuit>
+  <DesiredZoom>42</DesiredZoom>
+  <DesiredFov>0.78</DesiredFov>
 </Root>
